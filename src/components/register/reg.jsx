@@ -25,7 +25,7 @@ export default function Reg() {
                 <img src="asset/bel-6.png" alt="" />
               </div>
             </div>
-            <div className="sec-imgs flex justify-center gap-3 sm: w-full flex-wrap mt-[-2rem] md:mt-[0rem] lg:mt-[2rem]  ">
+            <div className="sec-imgs flex justify-center gap-4 sm: w-full flex-wrap mt-[5rem] md:mt-[0rem] lg:mt-[2rem]  ">
               <div className="sec-img-img rounded-[50%] border-solid border-[1px] border-[gray]">
                 <img src="asset/bel-6.png" alt="" />
               </div>
