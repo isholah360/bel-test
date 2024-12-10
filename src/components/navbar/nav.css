@@ -1,0 +1,40 @@
+.nav-bar{
+    
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: lightgray;
+    background-color: #fff;
+}
+.logo-img{
+    height:3rem;
+    width:3rem;
+}
+.logo-img img{
+    height: 100%;
+    width: 100%;
+}
+.logo-sect{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.logo-cont{
+    font-weight: bolder;
+    font-size: clamp(1.2vw, 1.5vw + .5rem, 1.75rem);
+}
+.nav-list ul{
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+  margin-right: 2rem;
+}
+ul .reg{
+    border-radius: 10px;
+    border-style: solid;
+    padding: .35rem 1.2rem;
+    border-width: 1px;
+}
+.nav-like{
+    z-index: 50;
+}

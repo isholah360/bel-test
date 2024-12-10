@@ -1,0 +1,23 @@
+.reg-section{
+}
+reg-img-cover img{
+    z-index: -1;
+}
+.reg-imgs{
+    z-index: 10;
+}
+.sec-img-img{
+ height: 6.5rem;
+ width: 6.5rem;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+.sec-img-img img{
+    height: 5.5rem;
+    width: 5.5rem;
+    border-radius: 50%;
+   }
+   .auth-images{
+    padding: 1rem 5%;
+   }

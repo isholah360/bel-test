@@ -1,0 +1,21 @@
+.top-img{
+  overflow: hidden;
+  margin: -10rem 6rem;
+}
+.bottom-img{
+  overflow: hidden;
+  margin-left: 15rem;
+}
+.top-img img{
+    transform: scale(1.5);
+    padding: 3rem 0;
+    
+}
+.bottom-img img{
+    transform: scale(1.5);
+    padding: 3rem 0;
+    
+}
+.f-title-main{
+    letter-spacing: 1.2px;
+}

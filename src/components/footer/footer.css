@@ -1,0 +1,15 @@
+.f-footer{
+    border-top: solid;
+    border-top-width: 1px;
+    border-top-color: gray;
+    padding: .5rem 5%;
+}
+.main-footer-layout{
+    border-top: solid;
+    border-top-width: 1px;
+    border-top-color: gray;
+    padding: .5rem 5%;
+}
+.footer-list ul li{
+    margin: 0 .5rem
+}

@@ -1,0 +1,39 @@
+.who-content{
+    margin: -.55rem;
+}
+.the-who-cont{
+    margin: -0rem -1rem;
+}
+.who-we-content{
+    letter-spacing: 1px;
+    
+}
+.who-we-are{
+    bottom: -6rem;
+}
+@media screen and (max-width:860px){
+    .who-section{
+        margin: 5rem 2rem;
+        padding: 6rem 0;
+    }
+    .who-content{
+        font-size: .8rem;
+    }
+    .who-we-are{
+        margin: 4rem 0;
+    }
+}
+@media screen and (max-width:768px){
+    .who-section{
+        margin: 5rem 2rem;
+        padding: 6rem 0;
+    }
+    .the-who-cont{
+        margin: 5rem -1rem;
+     
+    }
+    .who-we-ar{
+        margin: 0rem 0;
+    }
+  
+}

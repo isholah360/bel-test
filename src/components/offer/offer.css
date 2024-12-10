@@ -1,0 +1,27 @@
+.whole-offer{
+    border-bottom: solid;
+    border-bottom-width: 1px;
+    border-color:#75687E ;
+}
+.vect-two{
+    position: absolute;
+    top: 18%;
+    z-index: -1;
+}
+.s-circ-content{
+    line-height: 1rem;
+}
+.subtitle-form{
+    font-style: italic;
+}
+s-left{
+    padding: 1rem;
+    flex-wrap: wrap;
+    max-width: 20%;
+}
+@media screen and (max-width:860px){
+    .what-we-offers{
+        margin-top: -13rem;
+    }
+    
+}
