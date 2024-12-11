@@ -5,3 +5,17 @@
 .s-main-content{
     gap: 5rem;
 }
+.s-left-circ{
+    height: clamp(13vw, 27vw + 1rem, 8rem);
+    width: clamp(13vw, 27vw + 1rem, 8rem);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.s-circ-content{
+    font-size: clamp( .7vw, 5vw + .25rem, 1rem);
+    
+}
+.s-circ-contents{
+    font-size: clamp( .25vw, 1.5vw + .15rem, .6rem);
+}

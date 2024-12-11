@@ -24,3 +24,8 @@ reg-img-cover img{
    .third-imgs{
     margin: 2rem 0;
    }
+   @media screen and (max-width:768px){
+  .sec-imgs{
+    margin: -2rem 0;
+  }
+}

@@ -23,5 +23,14 @@ s-left{
     .what-we-offers{
         margin-top: -13rem;
     }
+    .monthlymeet{
+        justify-content: space-around;
+    }
+    
+}
+@media screen and (max-width:680px){
+    .meet-content{
+        display: none;
+    }
     
 }

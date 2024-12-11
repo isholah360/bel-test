@@ -15,7 +15,7 @@
   
 }
 .whole-carousel{
-    margin: 3rem 1.5rem;
+    margin: 5rem 1.5rem;
 }
 .nav-button{
     padding: 3rem;
@@ -24,7 +24,7 @@
     .nav-button{
         right: 1%;
         top: 5rem;
-        padding-top: 2.5rem;
+        padding-top: 5rem;
     }
     .first-but{
         padding: .45rem;
@@ -34,7 +34,7 @@
     .nav-button{
         right: 1%;
         top: 5rem;
-        padding-top: 2.5rem;
+        padding-top: 5rem;
     }
     .first-but{
         padding: .45rem;

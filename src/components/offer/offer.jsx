@@ -15,7 +15,7 @@ export default function Offer({titles, subtitle}) {
        
         <div className="monthlymeet flex items-center justify-between border-bt-solid">
           <div className="meetup text-2xl font-bold flex items-center gap-2 sm: text-[3.5vw] lg:text-2xl">
-            <div className="h-3 w-3 bg-[#8300FF] rounded-md border-solid border-[#8300FF] border-[1px]"></div>{" "}
+            <div className=" dots h-3 w-3 bg-[#8300FF] rounded-md border-solid border-[#8300FF] border-[1px]"></div>{" "}
             <div className="w-[15rem] sm:-[10vw] lg:w-[15rem]">{titles}</div>
           </div>
           <div className="meet-content text-[.65rem] w-1/3">

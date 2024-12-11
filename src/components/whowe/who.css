@@ -18,22 +18,25 @@
     }
     .who-content{
         font-size: .8rem;
+        margin: 0 -2rem;
+        width: 95%;
     }
     .who-we-are{
         margin: 4rem 0;
+       
     }
 }
 @media screen and (max-width:768px){
     .who-section{
-        margin: 5rem 2rem;
+        margin: 5rem 1rem;
         padding: 6rem 0;
     }
     .the-who-cont{
-        margin: 5rem -1rem;
-     
+        margin: 5rem -2rem;
     }
     .who-we-ar{
         margin: 0rem 0;
+        font-size: clamp(2vw, 4vw + .5rem, 2rem);
     }
   
 }
