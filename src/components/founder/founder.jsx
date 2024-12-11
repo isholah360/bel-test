@@ -30,8 +30,8 @@ export default function Founder() {
     );
     tl.fromTo(
       parallaxy.current,
-      { opacity: 0, x: 180 }, // Initial state
-      { opacity: 1, x: 0, duration: .5 } // Final state
+      { opacity: 0, x: 180 }, 
+      { opacity: 1, x: 0, duration: .5 } 
     );
   }, []);
 
@@ -58,16 +58,16 @@ export default function Founder() {
             </span>
           </button>
         </div>
-        <div ref={parallaxy} className="flex justify-center mr-[15%] pt-[3rem] sm:mr-[15%] pt-[3rem] md:mr-[15%] pt-[0rem] lg:mr-[0%] pt-[0rem]">
+        <div ref={parallaxy} className="mobile-found flex justify-center mr-[15%] pt-[3rem] sm:mr-[15%] pt-[3rem] md:mr-[15%] pt-[0rem] lg:mr-[0%] pt-[0rem]">
           <div className="founder-img relative">
-            <div className="bottom-img h-[20rem] w-[17rem] rounded-2xl">
+            <div className="bottom-img  rounded-2xl">
               <img
                 className="h-[100%] w-[100%] rounded-2xl"
                 src="asset/bel-12.jfif"
                 alt=""
               />
             </div>
-            <div className="top-img h-[20rem] w-[17rem] rounded-2xl">
+            <div className="top-img rounded-2xl">
               <img
                 className="h-[100%] w-[100%] rounded-2xl"
                 src="asset/bel-19.jfif"

@@ -19,3 +19,16 @@
 .f-title-main{
     letter-spacing: 1.2px;
 }
+@media screen and (max-width:680px){
+  .mobile-found{
+    justify-content: center;
+    padding: 5rem 20% 0 0;
+    
+  }
+  .top-img, .bottom-img{
+    height: clamp(12vw, 100vw + 1rem, 18rem);
+    width: clamp(12vw, 43vw + 1rem, 18rem);
+    
+  }
+  
+}
