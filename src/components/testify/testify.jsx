@@ -47,8 +47,8 @@ function Testify() {
     ]
   };
   return (
-    <div className="px-[15%] relative  lg:px-[25%] ">
-      <div className="slider-container">
+    <div className="px-[15%] relative lg:px-[25%] ">
+      <div className="slider-container ">
         <h1 className="text-center font-bold sm:text-xl md:text-2xl lg:text-3xl">What Do Our Attendees Have To Say?</h1>
         <h2 className="text-center py-4">Well See For Yourself!</h2>
         <Slider

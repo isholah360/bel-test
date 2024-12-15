@@ -38,7 +38,7 @@ export default function Coming() {
   return (
     <div className="py-[3rem]" ref={parallaxRef}>
       <div className="c-sectoin " >
-        <div className="cimage h-[80lvh] w-full relative">
+        <div className="cimage h-[32rem] w-full relative">
           <img className="h-[100%] w-[100%]" src="/asset/bel9.jfif" alt="" />
           <div ref={parallaxy} className=" c-contents absolute top-0 px-[5%] h-[100%] w-[100%] flex justify-between items-center ">
             <div className="c-main-content w-full ">
